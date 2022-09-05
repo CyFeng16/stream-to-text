@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# paddlepaddle
+exp/
+
+# data
+data/
