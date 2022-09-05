@@ -133,3 +133,6 @@ exp/
 
 # data
 data/
+
+# pycharm
+.idea/
